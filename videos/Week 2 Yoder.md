@@ -54,7 +54,7 @@ Part 5 - Mutual Information
 ![[{F1B1094E-1FAA-4E8C-86B3-B8A848BA6E4E}.png]]
 
 Part 6 - Thermodynamic Entropy
-Max entropy achieved when equilibrium is reached:
+Max entropy achieved when equilibrium is reached.
 ![[{7A42F6F9-EFD8-4E53-A722-7C90EDC918F5}.png]]
 
 Maxwell's demon is a thought experiment where equilibrium is never reached:
