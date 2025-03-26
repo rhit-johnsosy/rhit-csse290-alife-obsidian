@@ -1,5 +1,5 @@
 ### Pages: 13
-### Time Taken: 
+### Time Taken: 1 hr
 
 Alchemy and chemistry both are useful in studying Artificial Life and Artificial Chemistry as seen in the Miller-Urey experiment.
 
