@@ -14,3 +14,9 @@ What would you like to learn more about?
 
 * I want to see how this knowledge has been used to help people.
 * I would also like to know about a meta-analysis of all these ALife approaches to help determine which method and description are better at what kinds of data and how formatted it needs to be. 
+
+**To help guide the development of computer simulation models (you can focus on AChem specifically), what are some guidelines you think researchers should keep in mind in order to make sure that we have an opportunity to advance science?**
+
+* Reference and understand prior work in AChem
+* Learn about the basics of biology and chemistry and how they approach computation
+* Use metrics to quantify and describe how different simulations went so they are comparable (i.e. Assembly Theory)
