@@ -20,3 +20,5 @@ What would you like to learn more about?
 * Reference and understand prior work in AChem
 * Learn about the basics of biology and chemistry and how they approach computation
 * Use metrics to quantify and describe how different simulations went so they are comparable (i.e. Assembly Theory)
+* Be sure to not get too abstract with the rules you use to define your model as those are the base that you will have to explain from as well as the emerging patterns later on.
+* Frequent research in "real science" and talk to professionals in those research fields about your own research to help brainstorm better ways to advance science and possibly find a new application that you hadn't thought of. This will also make you better at explaining AChem simulations and could clue you into what you're doing wrong and what you're doing right.
