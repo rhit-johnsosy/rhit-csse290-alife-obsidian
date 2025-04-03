@@ -12,7 +12,7 @@
 
 "Life is the only thing in the universe that can make objects that are composed of many unique, recursively constructed parts." pg. 88-89
 
-**"But as a classically trained theoretical physicist I did not htink the ideas would be testable in my lifetime. Lee aimed to prove me wrong. Early in our collaboration he pushed me to ground my thinking in what we can measure, and this exercise has made all the difference in the reality I now see written in the story of life."** pg. 89-90
+**"But as a classically trained theoretical physicist I did not think the ideas would be testable in my lifetime. Lee aimed to prove me wrong. Early in our collaboration he pushed me to ground my thinking in what we can measure, and this exercise has made all the difference in the reality I now see written in the story of life."** pg. 89-90
 
 Objects are finite and distinguishable.
 Objects are breakable. pg. 91
@@ -43,7 +43,7 @@ pg. 97 LEGO activity - would be a cool thing to do if I had more time
 
 "You cannot use an object to make something new until that object itself exists." pg. 98
 
-"assembly theory escribes every object you interact with as a recursive stack of its history. You might think of assembly theory as a theory of physics where history is a physical attribute." pg. 98
+"assembly theory describes every object you interact with as a recursive stack of its history. You might think of assembly theory as a theory of physics where history is a physical attribute." pg. 98
 
 "The set of steps you would have taken (or maybe did take, if you made your own LEGO version) is what we call an assembly pathway." pg. 98
 
@@ -62,7 +62,7 @@ Minecraft mention pg. 99
 "We remove the context dependence by focusing on the features of the object that will be the same no matter where we observe it. In this sense we do not care what function or meaning the DNA has, only that DNA requires something to already exist that can build it (e.g., a cell, or a laboratory)--that is, we care that DNA is itself a product of evolution." pg. 103
 
 **"We cannot look at DNA on its own as an object and say what its meaning is. But we can measure the minimal path to make DNA, independent of what built it or were we find it."** pg. 103
-
+	
 "This brings us to one of the most important reasons we use the minimal path in assembly theory: it is agnostic and does not depend on the chemistry of life as we know it. We can go in the lab and measure it using several different instruments, and we can measure it for *any molecule*." pg. 103
 
 # Assembled, Not Random: Why Evolution Is Necessary to Build Complexity in the Universe
