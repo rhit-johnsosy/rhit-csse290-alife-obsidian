@@ -12,7 +12,7 @@
 
 Sources:
 
-Barrett, L. F. (2017). How emotions are made: The secret life of the brain. Mariner Books..
+Barrett, L. F. (2017). How emotions are made: The secret life of the brain. Mariner Books.
 
 Harvey, I. (2009). The microbial genetic algorithm. Evolutionary and Adaptive Systems Group,    Centre for Computational Neuroscience and Robotics, Department of Informatics, University of Sussex, Brighton. [https://users.sussex.ac.uk/~inmanh/MicrobialGA_ECAL2009.pdf](https://users.sussex.ac.uk/~inmanh/MicrobialGA_ECAL2009.pdf)
 Notes: [[csse290-alife/papers/Harvey (2009)|Harvey (2009)]]
@@ -29,4 +29,4 @@ Yoder, J. (2025). Csse 290 - Artificial life course material. Rose-Hulman Insti
 
   
 
-Additional Note: Something I found really surprising is how the books you lent me before I knew the class existed (7.5 Lessons About the Brain, How Emotions Are Made, and Artificial Societies) all tie into the core material that make up artificial life to some capacity. Emergence and evolution especially for Lisa Barrett's books and then pretty much all the topics for Artificial Societies as it seems to be a social science run-through of artificial human life.**
+Additional Note: Something I found really surprising is how the books you lent me before I knew the class existed (7.5 Lessons About the Brain, How Emotions Are Made, and Artificial Societies) all tie into the core material that make up artificial life to some capacity. Emergence and evolution especially for Lisa Barrett's books and then pretty much all the topics for Artificial Societies as it seems to be a social science run-through of artificial human life.
