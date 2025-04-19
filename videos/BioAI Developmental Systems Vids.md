@@ -293,4 +293,4 @@ Correct Quiz Answers:
 * HyperNEAT utilizes a CPPN with at least 4 inputs to determine how strongly neurons are connected to other neurons
 * A CPPN with four inputs which is provided two fixed values results in a 2D pattern being produced
 * HyperNEAT can be used to train neural network with millions of nodes
-* There have been many extensions to HyperNEAT including a version that allows the network to efficiently remove redundant nodes and weights
+* There have been many extensions to HyperNEAT including a version that allows the network to efficiently remove redundant nodes and 
