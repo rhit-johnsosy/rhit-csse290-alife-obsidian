@@ -79,4 +79,4 @@ Chapter 2 focuses on Pattern Formation
 
 
 ### Section 2.7 - Conclusion
-* "Another central factor in pattern formation is the availability of many cells, and that all the cells are processed in parallel: there must be no central control."
+* "Another central factor in pattern formation is the availability of many cells, and that all the cells are processed in parallel: there must be no central control." pg. 2.25
