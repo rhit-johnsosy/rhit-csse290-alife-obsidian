@@ -5,7 +5,7 @@ https://wiki.santafe.edu/images/1/12/Sf_csss06_tavares_et_al.pdf
 
 
 
-* "Since perceptrons (they aren't linearly separable) are not suitable as a general neuronal component of NCAs, the next logical step is to use a multi-layer feed-forward ANN. The reasoning is straight-forward: it has been proved that networks of this type can learn any function, as long as the hidden layer contains enough neurons." pg. 5
+* "Since perceptrons are not suitable as a general neuronal component of NCAs (they aren't linearly separable), the next logical step is to use a multi-layer feed-forward ANN. The reasoning is straight-forward: it has been proved that networks of this type can learn any function, as long as the hidden layer contains enough neurons." pg. 5
 * To evaluate the ANN
 	* A test set would be too restrictive and not allow room for complexity and evolution
 	* Therefore, measuring complexity is the best way. Score ANNs with higher complexity in their emerging features than those who have less.
