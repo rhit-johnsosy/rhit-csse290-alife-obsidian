@@ -6,5 +6,5 @@
 * Watch **[Kevin O'Regan: The sensorimotor approach to understanding "feel" in humans and robots](https://www.youtube.com/watch?v=w4BsWmxu3dI&ab_channel=Aldebaran)**
 
 # Deliverable to Create
-* * Create 7 minute presentation on Sensorimotor Contingencies
+* Create 7 minute presentation on Sensorimotor Contingencies
 
