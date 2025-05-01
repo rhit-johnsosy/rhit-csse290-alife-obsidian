@@ -14,3 +14,4 @@ How does it connect to what you learned from your own work?
 What would you like to learn more about?
 
 * I want to learn more about how to use ANNs to model human behavior and interpersonal dynamics. 
+* The work of Mordvinstev and how he can create such interesting simulations and art.
