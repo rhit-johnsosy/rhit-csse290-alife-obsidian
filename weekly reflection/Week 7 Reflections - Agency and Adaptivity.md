@@ -25,7 +25,7 @@ How does it connect to what you learned from your own work?
 * Quote from Will G's Cognitive Neuroethology slide:
 	* "The most important evidence suggesting that the nervous system cannot be the exclusive focus for understanding adaptive behavior is that it continuously **receives and responds to feedback** both from the **movements that it induces** in its own **periphery and from the surrounding environment**"
 		* Connects with the brain-body-environment system that Izquierdo [[Izquierdo (2016)]] focuses on by having each component work together with the brain receiving and responding to feedback, movement being from the body, and the surrounding environment being the environment.
-		* Connects with the idea of sensorimotor contingencies as putting the focus on the result of an interaction rather than trying to isolate a singular thing as being the cause of adaptive behavior
+		* Connects with the idea of sensorimotor contingencies as putting the focus on the result of an interaction rather than trying to isolate a singular thing as being the cause of adaptive behavior [[Kevin O'Regan The sensorimotor approach to understanding feel in humans and robots]] [[Laflaquière et al. (2018)]]
 * Will G's Computational Neuroethology seems to be exactly what [[Izquierdo (2016)]] is going for since he's using all the data on the C. elegans to recreate it and understand how it functions through various simulations and experiments. 
 * Conway's game of life from Alex's slide seems to be the most re-occurring ALife simulations in my life
 	* First introduced to it sophomore year of high school in a C++ class
