@@ -1,10 +1,2 @@
-What would you say are the most important things you have learned in this course?
-
-
-What are you most interested in learning more about?
-
-
-How would you define life?
-
-
-
+![[Pasted image 20250524230511.png]]
+Created By: William Greenlee, Steven Johnson
